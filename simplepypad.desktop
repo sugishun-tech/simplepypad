@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=SimplePyPad
+Comment=Simple Text Edittor
+Path=/home/shun/develop/simplepypad/simplepypad
+Exec=/home/shun/develop/simplepypad/simplepypad/venv/bin/python /home/shun/develop/simplepypad/simplepypad/simplepypad.py
+Icon=/home/shun/develop/simplepypad/simplepypad/icon.png
+Terminal=false
+Categories=Utility;TextEditor;
